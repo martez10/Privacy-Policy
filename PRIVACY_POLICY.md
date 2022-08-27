@@ -1,4 +1,4 @@
-PRIVACY POLICY FOR MOBILE APPLICATION "Gomoku libray"
+PRIVACY POLICY FOR MOBILE APPLICATION "Gomoku library"
 
 Last updated: August 27, 2022
 
